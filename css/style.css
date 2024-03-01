@@ -1,3 +1,11 @@
 h2 {
-    color: brown;
+    color: rgb(121, 30, 30);
+}
+
+ul {
+    color:rgb(121, 30, 30);
+}
+
+ol {
+    height: 20px;
 }
