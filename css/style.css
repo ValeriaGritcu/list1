@@ -6,6 +6,12 @@ ul {
     color:rgb(121, 30, 30);
 }
 
-ol {
-    height: 20px;
+.one {
+    float: right;
+    margin-top: -262px;
+    padding-right: 360px;
+}
+
+.two {
+    width: 24%;
 }
